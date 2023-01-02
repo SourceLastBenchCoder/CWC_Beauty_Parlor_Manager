@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import Dashboard from "./pages/admin/Dashboard";
 import Home from "./pages/Home";
 import "./css/style.css"
-import 'react-inner-image-zoom/lib/InnerImageZoom/styles.css';
+import 'react-inner-image-zoom/lib/InnerImageZoom/styles.css';    
 
 
 function App() {
